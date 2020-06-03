@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab9b48a4-71df-47d8-9d16-eb57b29560a9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/fizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/fizzBuzz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/fizzBuzz.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/fizzBuzz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dogs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/egle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/mammal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

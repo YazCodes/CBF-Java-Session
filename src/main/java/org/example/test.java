@@ -16,5 +16,9 @@ public class test {
         System.out.println(amy.getAge());   // getAge is used to access to private age variable in the Person class
 
 
+        cat timmy = new cat();
+
+
+
     }
 }
