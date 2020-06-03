@@ -4,7 +4,12 @@ public class fizzBuzz {
 
     public static void main(String[] args) {
 
+        theFizzBuzz();  //This calls the method
+
+    }
+
         // fizz buzz
+        public static void theFizzBuzz () {   // public static void  - not returning can be seen by anyone, doesn't take any parameters inside
 
         for (int i = 1; i <=20 ; i++) {
             if (i % 3 == 0 && i % 5 ==0) {
@@ -21,4 +26,10 @@ public class fizzBuzz {
 
         }
     }
-}
+
+
+
+
+
+    }
+
